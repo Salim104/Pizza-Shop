@@ -3,7 +3,7 @@ import ImgBg from '../../images/pizza-3.jpg'
 
 export const HeroContainer =styled.div`
      background:linear-gradient(to right, rgba(0,0,0,0.6),rgba(0,0,0,0.1)),url(${ImgBg});
-   height:100vh;
+   height:99vh;
    background-position:center;
    background-size:cover;
 
@@ -25,7 +25,7 @@ align-items:flex-start;
 height:100vh;
 max-height:100%;
 padding:0 2rem;
-width:650px;
+width:651px;
 color:#fff;
 text-transform:uppercase;
 line-height:1;
