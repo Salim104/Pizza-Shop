@@ -89,7 +89,7 @@ export const ProductWrapper = styled.div`
 export const ProductCard = styled.div`
   margin: 0 2rem;
   line-height: 2;
-  width: 301px;
+  width: 302px;
 `;
 
 export const ProductImg = styled.img`
